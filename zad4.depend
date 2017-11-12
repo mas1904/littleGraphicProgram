@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1509879495 source:c:\users\£ukasz\desktop\grafika komputerowa\zad4\dialogs.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"dialogs.h"
+
+1509876802 c:\users\£ukasz\desktop\grafika komputerowa\zad4\dialogs.h
+
+1509888159 source:c:\users\£ukasz\desktop\grafika komputerowa\zad4\main.cpp
+	<iostream>
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<gdiplus.h>
+	<fstream>
+	<comdef.h>
+	<commctrl.h>
+	<sstream>
+	<string>
+	<vector>
+	"dialogs.h"
+	"include/cImage.h"
+
+1509884380 c:\users\£ukasz\desktop\grafika komputerowa\zad4\include\cimage.h
+	<windows.h>
+	<iostream>
+	<thread>
+	<cmath>
+	<vector>
+
+1509887577 source:c:\users\£ukasz\desktop\grafika komputerowa\zad4\src\cimage.cpp
+	"../include/cImage.h"
+
